@@ -23,11 +23,12 @@
 
 ## Color Scheme
 
-- Accent Yellow: `#ecad0a` - accent lines, highlights
-- Blue Primary: `#209dd7` - links, key sections
+- Accent Yellow: `#172B4D` - accent lines, highlights
+- Blue Primary: `#172B4D` - links, key sections
 - Purple Secondary: `#753991` - submit buttons, important actions
-- Dark Navy: `#032147` - main headings
-- Gray Text: `#888888` - supporting text, labels
+- Dark Navy: `#FFFFFF` - main headings
+- Gray Text: `#FFFFFF` - supporting text, labels
+![alt text](image.png) i want the cards to be like the attached 
 
 ## Strategy
 

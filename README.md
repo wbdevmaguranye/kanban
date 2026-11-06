@@ -1,5 +1,16 @@
 # Kanban Project Manager
 
+## Running the app
+
+```bash
+cd frontend
+npm install
+npm run dev        # http://localhost:3000
+npm test           # unit and component tests (Vitest)
+npx playwright install chromium
+npm run test:e2e   # integration tests (Playwright)
+```
+
 ## Instructions
 
 This is a skeleton project to be the basis for your Kanban project for Week 1 of the Complete AI Coder Course. See the course resources for more.

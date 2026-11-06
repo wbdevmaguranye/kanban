@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-navy: #172b4d;
+  --color-navy-deep: #0d1b33;
+  --color-action: #753991;
+}
+
+body {
+  background: radial-gradient(circle at 20% 0%, #23406f 0%, var(--color-navy) 45%, var(--color-navy-deep) 100%) fixed;
+  color: #ffffff;
+}
